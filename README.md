@@ -63,3 +63,23 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 ## Copyright and License
 
 Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE) license.
+
+
+
+
+
+Website Link : 
+
+Website Images :
+
+![s1](https://github.com/Ritam7167/Weather_App/assets/65413330/8c08a0e9-dd22-484d-803a-5776353dcc59)
+
+![s2](https://github.com/Ritam7167/Weather_App/assets/65413330/9a9e6256-0b6b-4c2d-b43b-937ef2d52bb8)
+
+![s3](https://github.com/Ritam7167/Weather_App/assets/65413330/eaf781c4-48ae-4893-a0e9-fb302f9460a7)
+
+![s4](https://github.com/Ritam7167/Weather_App/assets/65413330/6536135a-2410-4514-960b-47818ad0cc5a)
+
+![s5](https://github.com/Ritam7167/Weather_App/assets/65413330/936796cd-5557-412a-a88d-62e6792eefed)
+
+![s6](https://github.com/Ritam7167/Weather_App/assets/65413330/aba37435-c318-4640-a7ec-a39800296a75)
